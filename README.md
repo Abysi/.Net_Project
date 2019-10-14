@@ -1,2 +1,1 @@
-# .Net_Project
-.Net_Project
+# Project.Net
